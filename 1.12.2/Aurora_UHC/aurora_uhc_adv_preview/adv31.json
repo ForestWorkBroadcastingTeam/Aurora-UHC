@@ -1,0 +1,21 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "No",
+            "color": "red"
+        },
+        "description": {
+            "text": "Disabled | Everything is free to craft."
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {},
+    "parent": "aurora_uhc_adv_preview:adv29"
+}

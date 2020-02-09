@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Limited Crafting"
+        },
+        "description": {
+            "text": "can only craft several items when it is found or requirement sufficient"
+        },
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {},
+    "parent": "aurora_uhc_adv_preview:vanilla_gamerules"
+}

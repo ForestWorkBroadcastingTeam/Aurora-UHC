@@ -1,0 +1,20 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "day light cycle"
+        },
+        "description": {
+            "text": "should the sun move, should the moon move?"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {},
+    "parent": "aurora_uhc_adv_preview:vanilla_gamerules"
+}

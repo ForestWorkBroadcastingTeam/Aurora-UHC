@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Vanilla Gamerules",
+            "color": "blue",
+            "bold": true
+        },
+        "description": {
+            "text": "All about /gamerule settings"
+        },
+        "icon": {
+            "item": "minecraft:compass"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "gamerule": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "aurora_uhc_adv_preview:root"
+}

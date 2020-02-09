@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Team Settings",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "Settings all about teams"
+        },
+        "icon": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "teamsetting": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "aurora_uhc:system_core/system/background/hotbar_huge_detection/advancement_value/team_value_edit"
+    },
+    "parent": "aurora_uhc_adv_preview:root"
+}

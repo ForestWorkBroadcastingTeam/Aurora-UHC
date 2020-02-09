@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Manual Teams",
+            "italic": true
+        },
+        "description": {
+            "text": "You pick it yourself."
+        },
+        "icon": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "team_setting_2": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "aurora_uhc:system_core/system/background/hotbar_huge_detection/advancement_value/team_man_value_edit"
+    },
+    "parent": "aurora_uhc_adv_preview:team_settings_display"
+}

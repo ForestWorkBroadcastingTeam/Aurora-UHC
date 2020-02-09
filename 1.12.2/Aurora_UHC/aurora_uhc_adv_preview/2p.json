@@ -1,0 +1,32 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "2 players",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "obfuscated": false
+        },
+        "description": {
+            "text": "separated into teams."
+        },
+        "icon": {
+            "item": "minecraft:magenta_shulker_box"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "2pp": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "Aurora_UHC:System_Core/System/Background/Advancement_GUI_switch/2p"
+    },
+    "parent": "aurora_uhc_adv_preview:team_num"
+}

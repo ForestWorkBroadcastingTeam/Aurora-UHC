@@ -1,0 +1,29 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Aurora UHC",
+            "color": "gold",
+            "bold": true
+        },
+        "description": {
+            "text": "Thank you for using this launcher!"
+        },
+        "icon": {
+            "item": "minecraft:nether_star"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "onstart": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "aurora_uhc:system_core/installation/install_0"
+    }
+}

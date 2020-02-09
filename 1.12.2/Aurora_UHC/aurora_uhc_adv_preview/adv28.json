@@ -1,0 +1,22 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "No",
+            "color": "red"
+        },
+        "description": {
+            "text": "Disabled | Useful for PvP players who use lava/fire to burn others meanwhile doesn't want to damage environment."
+        },
+        "icon": {
+            "item": "minecraft:bed",
+            "data": 14
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {},
+    "parent": "aurora_uhc_adv_preview:adv26"
+}

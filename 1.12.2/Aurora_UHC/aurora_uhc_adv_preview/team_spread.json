@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Team Spread",
+            "italic": true
+        },
+        "description": {
+            "text": "Do you want to spread in teams or solo?"
+        },
+        "icon": {
+            "item": "minecraft:redstone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "team_setting_3": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "aurora_uhc_adv_preview:team_settings_display"
+}
