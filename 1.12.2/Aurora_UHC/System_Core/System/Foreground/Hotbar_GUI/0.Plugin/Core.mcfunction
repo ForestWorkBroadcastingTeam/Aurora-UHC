@@ -1,0 +1,9 @@
+replaceitem entity @a[m=1] slot.hotbar.0 minecraft:magenta_glazed_terracotta 1 0 {display:{Name:"返回",Lore:["回去上一页"]},CanPlaceOn:["minecraft:magma"],HideFlags:16}
+replaceitem entity @a[m=1] slot.hotbar.1 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.2 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.3 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.4 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.5 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.6 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.7 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.8 minecraft:air
