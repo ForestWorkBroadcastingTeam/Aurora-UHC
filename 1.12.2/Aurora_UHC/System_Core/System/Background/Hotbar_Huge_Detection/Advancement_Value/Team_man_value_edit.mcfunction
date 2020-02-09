@@ -1,0 +1,2 @@
+scoreboard players set @a[tag=UHCAdmin] Value 2
+tellraw @a ["",{"text":"\u624b\u52a8\u961f\u4f0d","color":"aqua"},{"text":" | "},{"text":"\u8bf7\u5404\u4f4d\u73a9\u5bb6\u9009\u62e9\u81ea\u5df1\u5fc3\u4eea\u7684\u961f\u4f0d\uff01","color":"yellow"}]
