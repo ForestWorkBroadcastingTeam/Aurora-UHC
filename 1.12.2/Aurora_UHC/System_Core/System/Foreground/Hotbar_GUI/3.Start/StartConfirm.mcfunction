@@ -1,0 +1,9 @@
+replaceitem entity @a[m=1] slot.hotbar.0 minecraft:air
+replaceitem entity @a[m=1] slot.hotbar.1 minecraft:air 
+replaceitem entity @a[m=1] slot.hotbar.2 minecraft:magenta_glazed_terracotta 1 0 {display:{Name:"返回",Lore:["aka 取消"]},CanPlaceOn:["minecraft:magma"],HideFlags:16}
+replaceitem entity @a[m=1] slot.hotbar.3 minecraft:air 
+replaceitem entity @a[m=1] slot.hotbar.4 minecraft:air 
+replaceitem entity @a[m=1] slot.hotbar.5 minecraft:air 
+replaceitem entity @a[m=1] slot.hotbar.6 minecraft:stained_glass_pane 1 5 {display:{Name:"确定",Lore:["选择了这个就无法回头。"]},HideFlags:16,CanPlaceOn:["minecraft:magma"]}
+replaceitem entity @a[m=1] slot.hotbar.7 minecraft:air 
+replaceitem entity @a[m=1] slot.hotbar.8 minecraft:air 
